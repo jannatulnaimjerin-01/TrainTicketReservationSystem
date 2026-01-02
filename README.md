@@ -1,7 +1,7 @@
 # Train Ticket Reservation System
 
 ## Course Information
-- Course Name: Object Oriented Programming Lab
+- Course Name: Object Oriented Programming Language Lab
 - Language: C#
 
 ## Project Description
